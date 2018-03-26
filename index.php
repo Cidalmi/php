@@ -1,9 +1,17 @@
 <?php 
 
-echo "Olá mundo!";
+
+$ nome = "Hcode";
 
 
-echo "Ola Php"
+
+
+
+
+
+
+
+
 
 
 
