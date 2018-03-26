@@ -1,7 +1,9 @@
 <?php 
 
 
-$ nome = "Hcode";
+$nome = "Hcode";
+
+var_dump($nome);
 
 
 
@@ -10,9 +12,7 @@ $ nome = "Hcode";
 
 
 
-
-
-
+ 
 
 
 ?>
